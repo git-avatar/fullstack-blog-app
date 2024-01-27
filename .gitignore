@@ -33,4 +33,4 @@ credentials.json
 build
 .env
 prod-env.yaml
-my-blog\README.md
+my-blog/README.md
